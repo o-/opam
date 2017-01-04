@@ -2,7 +2,7 @@
 
 SRC_EXTS = cppo extlib re cmdliner graph cudf dose uutf jsonm opam-file-format
 
-URL_cppo = http://mjambon.com/releases/cppo/cppo-1.1.2.tar.gz
+URL_cppo = http://github.com/mjambon/cppo/archive/v1.1.2.tar.gz
 MD5_cppo = f1a551639c0c667ee8840d95ea5b2ab7
 
 URL_extlib = https://github.com/ygrek/ocaml-extlib/archive/1.7.0.tar.gz
